@@ -1,0 +1,16 @@
+C:\Users\FC\Desktop\pratikler\ToDo\bin\Debug\net5.0\ToDo.exe
+C:\Users\FC\Desktop\pratikler\ToDo\bin\Debug\net5.0\ToDo.deps.json
+C:\Users\FC\Desktop\pratikler\ToDo\bin\Debug\net5.0\ToDo.runtimeconfig.json
+C:\Users\FC\Desktop\pratikler\ToDo\bin\Debug\net5.0\ToDo.runtimeconfig.dev.json
+C:\Users\FC\Desktop\pratikler\ToDo\bin\Debug\net5.0\ToDo.dll
+C:\Users\FC\Desktop\pratikler\ToDo\bin\Debug\net5.0\ref\ToDo.dll
+C:\Users\FC\Desktop\pratikler\ToDo\bin\Debug\net5.0\ToDo.pdb
+C:\Users\FC\Desktop\pratikler\ToDo\obj\Debug\net5.0\ToDo.csproj.AssemblyReference.cache
+C:\Users\FC\Desktop\pratikler\ToDo\obj\Debug\net5.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FC\Desktop\pratikler\ToDo\obj\Debug\net5.0\ToDo.AssemblyInfoInputs.cache
+C:\Users\FC\Desktop\pratikler\ToDo\obj\Debug\net5.0\ToDo.AssemblyInfo.cs
+C:\Users\FC\Desktop\pratikler\ToDo\obj\Debug\net5.0\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\FC\Desktop\pratikler\ToDo\obj\Debug\net5.0\ToDo.dll
+C:\Users\FC\Desktop\pratikler\ToDo\obj\Debug\net5.0\ref\ToDo.dll
+C:\Users\FC\Desktop\pratikler\ToDo\obj\Debug\net5.0\ToDo.pdb
+C:\Users\FC\Desktop\pratikler\ToDo\obj\Debug\net5.0\ToDo.genruntimeconfig.cache
